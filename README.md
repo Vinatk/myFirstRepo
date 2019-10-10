@@ -1,3 +1,3 @@
 # myFirstRepo
 
-This is a test repository
+This is my personal CV profile page. 
